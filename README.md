@@ -21,19 +21,17 @@ Ola-Data-Analysis/
 └── README.docx        # Project documentation
 📷 Dashboard Preview
 Add your dashboard screenshots inside the `screenshots` folder and reference them here.
-🚀 How to Run
-1. Clone this repository:
-   git clone https://github.com/yourusername/Ola-Data-Analysis.git
-2. Open the `.pbix` file in Power BI Desktop.
-3. Explore the interactive dashboard.
+
 📈 Business Value
 •	Optimize fleet availability during peak hours
 •	Improve payment adoption strategies
 •	Design better promotions for customers
 •	Understand revenue contribution from different ride types
+
 📌 Future Scope
 •	Add predictive analytics for demand forecasting
 •	Automate dataset updates with an ETL pipeline
 •	Enable real-time data integration
+
 🤝 Contribution
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
