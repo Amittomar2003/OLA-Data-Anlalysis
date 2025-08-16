@@ -1,4 +1,4 @@
-# OLA-Data-Anlalysis
+ # OLA-Data-Anlalysis
 Ola Data Analysis using Power BI
 
 📌 Overview
@@ -8,7 +8,7 @@ This project analyzes Ola ride data to uncover insights about customer behavior,
 📊 Key Insights
 •	Peak booking hours and days identified 📅
 •	Revenue distribution by ride type and city 💰
-•	Comparison of Micro, Mini, and Prime rides 🚗
+•	Comparison of Micro, Mini, and Prime rides etc  🚗
 •	Most preferred payment methods 💳
 •	Customer demand trends across locations 🌍
 
